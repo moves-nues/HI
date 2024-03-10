@@ -49,6 +49,9 @@ public class Main {
         }
         for (int i = 0; i < reverseFullName.length; i = i + 1 ) {
             System.out.print(reverseFullName[i]);
+
+
+
         }
 
     }
